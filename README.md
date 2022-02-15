@@ -78,3 +78,57 @@ I'm Anh, Software Engineer.
 
 | <a href="https://github.com/anhnt4288/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anhnt4288&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnt4288&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+### 📝 &nbsp; Moralis Academy certificate:
+
+<details>	
+  <summary><b>Ethereum 101</b></summary>
+
+  <br />
+  <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQFn-OwYHWhGHw/profile-treasury-document-cover-images_480/0/1643912859033?e=1644987600&v=beta&t=ApJ0cRkT5Zo61hCtKQXIfqsfv5vXOJgYzt3HNTZP-QA"/>
+</details>
+
+<details>	
+  <summary><b>Ethereum smartcontract programming</b></summary>
+
+  <br />
+  <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQHElLeFtTHOww/profile-treasury-document-cover-images_480/0/1644770362910?e=1644987600&v=beta&t=E2JQFCvHCSqnNg9CnfAzrpmfi7SUpjlQ0xqGNViYyFM"/>
+</details>
+
+<details>	
+  <summary><b>Defi 101 sessions A</b></summary>
+
+  <br />
+  <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQEb0_6i7HKrZQ/profile-treasury-document-cover-images_480/0/1644770298009?e=1644987600&v=beta&t=9lhwGp9GJLH0ei329CA4ggvRk3mI0HQ1pxiE-Lrv6-E"/>
+</details>
+
+### 🧑‍🚀 &nbsp; Top hackathon participant
+
+<details>
+  <summary><b> Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Source code & Presentation</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://devpost.com/software/refi-hoyue4"><b>🚀 Refi Metis hackathon</b></a></td>
+        <td><a href="https://www.youtube.com/watch?v=PSO5L_arG80"><b>Demo</b></a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://blog.chain.link/solana-ignition-and-sovereign-data-hackathon-2021-chainlink-bounty-winners/"><b>👨🏻‍💻 Smart Real Estate</b></a></td>
+        <td><a href="https://gitcoin.co/hackathon/ceramic-identity/projects/11343/poke-nft-ceramic-sovereign-data-hackathon-bounty"><b>Demo</b></a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://devpost.com/software/smart-real-estate"><b>💸 Poke NFT</b></a></td>
+        <td><a href="https://www.youtube.com/watch?v=XwfCSmbEuRo"><b>Demo</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
