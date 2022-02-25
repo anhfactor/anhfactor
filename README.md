@@ -10,7 +10,7 @@ I'm Anh, Software Engineer.
 
 
 **About me**
-- 💼 Working as software engineer at cloud computing company - [VNGCLOUD](https://vngcloud.vn/).
+- 💼 Working as software engineer at cloud computing company. 
 - 🚀 Inspired by the power of Blockchain and Decentralize tech, participant in gitcoin, devpost hackathon/ bounty
 - ❤️ I love writing Javascript/ Typescript, and building fun experiments on type-level
 - 👷🏻‍♂️ Web3 and Blockchain part time.
