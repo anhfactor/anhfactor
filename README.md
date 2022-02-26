@@ -81,8 +81,8 @@ I'm Anh, Software Engineer.
 
 ### 🧑‍🚀 &nbsp; Top hackathon participant
 
-<details>
-  <summary><b> Projects</b></summary>
+<!-- <details> -->
+<!--   <summary><b> Projects</b></summary> -->
 
   <br />
   <table>
@@ -123,7 +123,7 @@ I'm Anh, Software Engineer.
    </tbody>
 </table>
   <br />
-</details>
+<!-- </details> -->
 
 
 <!-- ### 📝 &nbsp; Moralis Academy certificate:
