@@ -79,7 +79,54 @@ I'm Anh, Software Engineer.
 | <a href="https://github.com/anhnt4288/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anhnt4288&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnt4288&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### 📝 &nbsp; Moralis Academy certificate:
+### 🧑‍🚀 &nbsp; Top hackathon participant
+
+<details>
+  <summary><b> Projects</b></summary>
+
+  <br />
+  <table>
+   <thead align="center">
+      <tr border: none;>
+         <td><b>💻 Projects</b></td>
+         <td><b>🌟 Source code & Presentation</b></td>
+         <td><b>:scroll: Description</b></td>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://devpost.com/software/ossfun"><b>OssFun Near hackathon</b></a></td>
+         <td><a href="https://www.youtube.com/watch?v=Rvjg_cGVrBE&t=1s"><b>Demo</b></a></td>
+         <td>OssFun is a DeFi Open Source Software FUNding initiative leveraging on Aurora network to enable open software and hardware creator to keep innovating in a sustainable way.</td>
+      </tr>
+      <tr>
+         <td><a href="https://devpost.com/software/refi-financing-the-energy-transition?"><b>Refi Near hackathon</b></a></td>
+         <td><a href="https://www.youtube.com/watch?v=bCb_VXR10pM&t=50s"><b>Demo</b></a></td>
+         <td>ReFi - Financing the Energy Transition. A DeFi initiative that revolutionise investing in renewable energy projects. We are making investing flexible, faster and accessible to everyone.</td>
+      </tr>
+      <tr>
+         <td><a href="https://devpost.com/software/refi-hoyue4"><b>Refi Metis hackathon</b></a></td>
+         <td><a href="https://www.youtube.com/watch?v=PSO5L_arG80"><b>Demo</b></a></td>
+         <td>ReFi - Financing the Energy Transition. A DeFi initiative that revolutionise investing in renewable energy projects. We are making investing flexible, faster and accessible to everyone.</td>
+      </tr>
+      <tr>
+         <td><a href="https://blog.chain.link/solana-ignition-and-sovereign-data-hackathon-2021-chainlink-bounty-winners/"><b>Smart Real Estate</b></a></td>
+         <td><a href="https://gitcoin.co/hackathon/ceramic-identity/projects/11343/poke-nft-ceramic-sovereign-data-hackathon-bounty"><b>Demo</b></a></td>
+         <td>Provide a dapp for user to search real estate based on the location, city by using Chainlink oracle interact with prospect now. User can bookmark their favourite real estate for later reference.
+         </td>
+      </tr>
+      <tr>
+         <td><a href="https://devpost.com/software/smart-real-estate"><b> Poke NFT</b></a></td>
+         <td><a href="https://www.youtube.com/watch?v=XwfCSmbEuRo"><b>Demo</b></a></td>
+         <td>a Pokémon trading card game built with ERC-721 Non-Fungible Tokens. The game leverages Ceramic’s decentralized identity (DID) services 3ID Connect and IDX, as well as Chainlink VRF, to generate provably random “special tokens” for players. By leveraging 3ID and IDX, the game allows users to control their identities and data in a manner independent from the game itself, while also offering a hosted authentication system that allows users to control their DID and interact with the game using their existing blockchain accounts. </td>
+      </tr>
+   </tbody>
+</table>
+  <br />
+</details>
+
+
+<!-- ### 📝 &nbsp; Moralis Academy certificate:
 
 <details>	
   <summary><b>Ethereum 101</b></summary>
@@ -102,33 +149,4 @@ I'm Anh, Software Engineer.
   <img height="180em" src="https://media-exp1.licdn.com/dms/image/C562DAQEb0_6i7HKrZQ/profile-treasury-document-cover-images_480/0/1644770298009?e=1644987600&v=beta&t=9lhwGp9GJLH0ei329CA4ggvRk3mI0HQ1pxiE-Lrv6-E"/>
 </details>
 
-### 🧑‍🚀 &nbsp; Top hackathon participant
-
-<details>
-  <summary><b> Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Source code & Presentation</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://devpost.com/software/refi-hoyue4"><b>🚀 Refi Metis hackathon</b></a></td>
-        <td><a href="https://www.youtube.com/watch?v=PSO5L_arG80"><b>Demo</b></a></td>
-      </tr>
-      <tr>
-	      <td><a href="https://blog.chain.link/solana-ignition-and-sovereign-data-hackathon-2021-chainlink-bounty-winners/"><b>👨🏻‍💻 Smart Real Estate</b></a></td>
-        <td><a href="https://gitcoin.co/hackathon/ceramic-identity/projects/11343/poke-nft-ceramic-sovereign-data-hackathon-bounty"><b>Demo</b></a></td>
-      </tr>
-      <tr>
-	      <td><a href="https://devpost.com/software/smart-real-estate"><b>💸 Poke NFT</b></a></td>
-        <td><a href="https://www.youtube.com/watch?v=XwfCSmbEuRo"><b>Demo</b></a></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
+ -->
