@@ -110,14 +110,14 @@ I'm Anh, Software Engineer.
          <td>ReFi - Financing the Energy Transition. A DeFi initiative that revolutionise investing in renewable energy projects. We are making investing flexible, faster and accessible to everyone.</td>
       </tr>
       <tr>
-         <td><a href="https://blog.chain.link/solana-ignition-and-sovereign-data-hackathon-2021-chainlink-bounty-winners/"><b>Smart Real Estate</b></a></td>
-         <td><a href="https://gitcoin.co/hackathon/ceramic-identity/projects/11343/poke-nft-ceramic-sovereign-data-hackathon-bounty"><b>Demo</b></a></td>
+         <td><a href="https://devpost.com/software/smart-real-estate"><b>Smart Real Estate</b></a></td>
+         <td><a href="https://www.youtube.com/watch?v=XwfCSmbEuRo"><b>Demo</b></a></td>
          <td>Provide a dapp for user to search real estate based on the location, city by using Chainlink oracle interact with prospect now. User can bookmark their favourite real estate for later reference.
          </td>
       </tr>
       <tr>
-         <td><a href="https://devpost.com/software/smart-real-estate"><b> Poke NFT</b></a></td>
-         <td><a href="https://www.youtube.com/watch?v=XwfCSmbEuRo"><b>Demo</b></a></td>
+         <td><a href="https://blog.chain.link/solana-ignition-and-sovereign-data-hackathon-2021-chainlink-bounty-winners"><b> Poke NFT</b></a></td>
+         <td><a href="https://gitcoin.co/hackathon/ceramic-identity/projects/11343/poke-nft-ceramic-sovereign-data-hackathon-bounty"><b>Demo</b></a></td>
          <td>a Pokémon trading card game built with ERC-721 Non-Fungible Tokens. The game leverages Ceramic’s decentralized identity (DID) services 3ID Connect and IDX, as well as Chainlink VRF, to generate provably random “special tokens” for players. By leveraging 3ID and IDX, the game allows users to control their identities and data in a manner independent from the game itself, while also offering a hosted authentication system that allows users to control their DID and interact with the game using their existing blockchain accounts. </td>
       </tr>
    </tbody>
