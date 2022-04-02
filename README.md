@@ -31,14 +31,15 @@ I'm Jason, Software Engineer.
   ![React](https://img.shields.io/badge/-React-5a4089?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-5a4089?style=flat&logo=next.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-5a4089?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-5a4089?style=flat&logo=Typescript)
+  ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+- 🔮 &nbsp;UiFramework&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-5a4089?style=flat&logo=TailwindCSS)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-5a4089?style=flat&logo=styled-components&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-  ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 - 🏋🏻 &nbsp;Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Go Lang](https://img.shields.io/badge/-Go-5a4089?style=flat&logo=Go)
-  ![Typescript](https://img.shields.io/badge/-Typescript-5a4089?style=flat&logo=Typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-5a4089?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
