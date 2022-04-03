@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 
-I'm Jason, Software Engineer.
-
+I'm Anh, Software Engineer.   
+🌟 Currently building [FresaWallet](https://github.com/FresaClubWallet) - De-fi tools for the unbanked
 
 **About me**
 - 💼 Working as software engineer at cloud computing company. 
-- 🚀 Inspired by the power of Blockchain and Decentralize tech, participant in gitcoin, devpost hackathon/ bounty
-- ❤️ I love writing Javascript/ Typescript, and building fun experiments on type-level
-- 👷🏻‍♂️ Web3 and Blockchain part time.
-
+- 🚀 Inspired by the power of Blockchain and Decentralize tech, participant in gitcoin, devpost hackathon/ bounty. 
+- ❤️ I love writing Javascript/ Typescript, and building useful application.
+- 👷🏻‍♂️ Web3 and Blockchain researcher.
+- 🎮 HTML5 Games development in freetime. Skilled in Phaser3, PixilJS. 
 
 <h3> 🧑🏻‍💻 &nbsp;Tech Stack</h3>
 
