@@ -1,7 +1,10 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1> 
 
 I'm Anh, Software Engineer.   
 🌟 Currently building [FresaWallet](https://github.com/FresaClubWallet) - De-fi tools for the unbanked
+
+<a href="https://www.buymeacoffee.com/anhfactor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 **About me**
 - 💼 Working as software engineer at cloud computing company. 
@@ -84,7 +87,7 @@ I'm Anh, Software Engineer.
 | <a href="https://github.com/anhfactor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anhfactor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhfactor&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### 🧑‍🚀 &nbsp; Top hackathon participant
+### 🧑‍🚀 &nbsp; Top project participant & contribute
 
 <!-- <details> -->
 <!--   <summary><b> Projects</b></summary> -->
@@ -99,6 +102,11 @@ I'm Anh, Software Engineer.
       </tr>
    </thead>
    <tbody>
+     <tr>
+         <td><a href="https://github.com/anhfactor/celopunk-auction"><b>CeloPunk auction</b></a></td>
+         <td><a href="https://celopunk-auction.vercel.app"><b>Demo</b></a></td>
+         <td>CeloPunk is a NFT marketplace on celo testnet chain (Alfajores). It allows user mint, buying, make an offer, claim funds of NFTs in an automated environment.</td>
+      </tr>
       <tr>
          <td><a href="https://devpost.com/software/ossfun"><b>OssFun Near hackathon</b></a></td>
          <td><a href="https://www.youtube.com/watch?v=Rvjg_cGVrBE&t=1s"><b>Demo</b></a></td>
