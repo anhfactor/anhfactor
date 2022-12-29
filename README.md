@@ -1,4 +1,4 @@
-<table><tr><td valign="top" width="70%"> 
+<table><tr><td valign="top" width="75%"> 
 
 ## 👋 Hey! I'm Anh, Software Engineer.  
   
