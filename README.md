@@ -1,16 +1,15 @@
-<table><tr><td valign="top" width="75%"> 
+<table><tr><td valign="top" width="70%"> 
 
 ## 👋 Hey! I'm Anh, Software Engineer.  
   
 - 💼 Working as software engineer at cloud computing company more than 5 years +
 - 🌟 Currently building [Hyperdrive](https://github.com/Hyperdrive-go) - Community driven Layer 2 NFT Exchange
-- 🌟 Currently building [FresaWallet](https://github.com/FresaClubWallet) - De-fi tools for the unbanked
 - 🚀 Inspired by the power of Blockchain and Decentralize tech, participant in gitcoin, devpost hackathon/ bounty. 
 - ❤️ I love writing Javascript/ Typescript, and building useful application.
 - 👷🏻‍♂️ Web3 and Blockchain researcher.
 - 🎮 HTML5 Games development in freetime. Skilled in Phaser3, PixilJS. 
   
- </td><td valign="top" width="25%">
+ </td><td valign="top" width="30%">
 
 ## 🖥️ Fav Tech Stack
 
