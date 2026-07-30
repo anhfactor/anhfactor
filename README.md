@@ -2,8 +2,7 @@
 
 ## 👋 Hey! I'm Anh, Software Engineer.  
   
-- 💼 Working as software engineer at cloud computing company more than 5 years +
-- 🌟 Currently building [Hyperdrive](https://github.com/Hyperdrive-go) - Community driven Layer 2 NFT Exchange
+- 💼 Working as software engineer at cloud computing company more than 10 years +
 - 🚀 Inspired by the power of Blockchain and Decentralize tech, participant in gitcoin, devpost hackathon/ bounty. 
 - ❤️ I love writing Javascript/ Typescript, and building useful application.
 - 👷🏻‍♂️ Web3 and Blockchain researcher.
